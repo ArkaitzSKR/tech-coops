@@ -158,7 +158,7 @@ Coop | Business Areas | Region/Country | Notes
 [Resonate](http://resonate.is) | Music Streaming  | Berlin, Germany / Dublin, Ireland| A multistakeholder platform co-operative - with contributors (workers, contractors, volunteers) represented with a 20% ownership stake.
 [Robur](https://robur.coop) | Software Development | Berlin, Germany | |
 [Sange](http://www.sange.fi/) | Hosting | Helsinki, Finland | |
-[SkuraMobile](https://skuramobile.com/) |  App development | Errenteria, Basque Country | |
+[Skura](https://skuramobile.com/) |  App development, Ios - Android, React Native, Laravel (API), Bluetooth | Arrasate and Errenteria, Basque Country | |
 [Slobodna domena](https://slobodnadomena.hr/) | Web & app development, design, IT infrastructure, consulting and education | Zagreb, Croatia | Worker's non-profit coop founded in 2017. |
 [Startin'blox](https://startinblox.com/) | Web development | Hosting | specilized in federated application | France | |
 [TableFlip](https://tableflip.io/) | Web development. Javascript, Node.js, Meteor. | London, UK | Founded 2013; "We're your technical co-founder." |
@@ -206,6 +206,8 @@ Coop | Business Areas | Notes
   * [CoTech Forum](https://community.coops.tech/) - active tech cooperatives forum from CoTech
 * [FACT\[TIC\]](http://facttic.org.ar) - Federation of tech worker-cooperatives in Argentina.
 * [Tech Co-op Network](https://techworker.coop) - North American Technology Worker Cooperatives.
+*  [Teks](https://teks.eus) - A network of free technologies and entities that operate within the transforming social economy. | Basque Country |
+
 
 ## Meetups
 
